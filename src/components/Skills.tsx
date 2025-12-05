@@ -17,7 +17,7 @@ const Skills = () => {
     },
     {
       category: "AI & CS Fundamentals",
-      skills: ["OpenAI API", "Generative Ai", "Java", "DBMS", "Operating System"],
+      skills: ["OpenAI API", "Generative Ai", ,"DSA" ,"Java", "DBMS", "Operating System"],
     },
   ];
 //logical part of skills component ends here
