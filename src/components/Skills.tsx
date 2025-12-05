@@ -5,7 +5,7 @@ const Skills = () => {
   const skillCategories = [
     {
       category: "Frontend",
-      skills: ["React", "TypeScript", "Next.js", "Tailwind CSS", "Bootstrap", "HTML/CSS"],
+      skills: ["React.js", "TypeScript", "Next.js", "Tailwind CSS", "Bootstrap", "HTML/CSS"],
     },
     {
       category: "Backend",
@@ -20,7 +20,7 @@ const Skills = () => {
       skills: ["OpenAI API", "Generative Ai", "Java", "DBMS", "Operating System"],
     },
   ];
-
+//logical part of skills component ends here
   return (
     <section id="skills" className="min-h-screen py-20 px-6">
       <div className="max-w-6xl mx-auto">
