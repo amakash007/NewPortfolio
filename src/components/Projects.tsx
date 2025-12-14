@@ -118,6 +118,8 @@ const Projects = () => {
     },
   ];
 
+
+  
   return (
     <section id="projects" className="min-h-screen py-20 px-6 bg-card/30">
       <div className="max-w-6xl mx-auto">
