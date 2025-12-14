@@ -111,10 +111,10 @@ const Projects = () => {
       technologies: ["TypeScript", " REST API", "React", "Tailwind CSS"],
     },
     {
-      title: "Project Management Tool",
+      title: "Video and Chat Application Using Full Stack",
       description:
         "Collaborative project management application with real-time updates, task tracking, and team communication features.",
-      technologies: ["React", "Socket.io", "MongoDB", "Express"],
+      technologies: ["React.js", "Socket.io", "MongoDB", "Express"],
     },
   ];//  
   return (
