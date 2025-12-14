@@ -116,10 +116,7 @@ const Projects = () => {
         "Collaborative project management application with real-time updates, task tracking, and team communication features.",
       technologies: ["React", "Socket.io", "MongoDB", "Express"],
     },
-  ];
-
-
-  
+  ];//  
   return (
     <section id="projects" className="min-h-screen py-20 px-6 bg-card/30">
       <div className="max-w-6xl mx-auto">
