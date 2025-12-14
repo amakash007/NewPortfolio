@@ -110,12 +110,12 @@ const Projects = () => {
         "Developed a news aggregator web application using the MERN stack (MongoDB, Express, React, Node.js) integrated with the NewsAPI.org API.",
       technologies: ["TypeScript", " REST API", "React", "Tailwind CSS"],
     },
-    // {
-    //   title: "Project Management Tool",
-    //   description:
-    //     "Collaborative project management application with real-time updates, task tracking, and team communication features.",
-    //   technologies: ["React", "Socket.io", "MongoDB", "Express"],
-    // },
+    {
+      title: "Project Management Tool",
+      description:
+        "Collaborative project management application with real-time updates, task tracking, and team communication features.",
+      technologies: ["React", "Socket.io", "MongoDB", "Express"],
+    },
   ];
 
   return (
