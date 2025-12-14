@@ -113,7 +113,7 @@ const Projects = () => {
     {
       title: "Video and Chat Application Using Full Stack",
       description:
-        "Collaborative project management application with real-time updates, task tracking, and team communication features.",
+        "• Built comprehensive real-time communication platform with messaging, 1-on-1 and group video calls, screensharing, and call recording capabilities using Stream API.",
       technologies: ["React.js", "Socket.io", "MongoDB", "Express"],
     },
   ];//  
