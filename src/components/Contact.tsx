@@ -26,6 +26,8 @@ const Contact = () => {
     },
   ];
 
+//   const handleSubmit = (e: React.FormEvent) => {
+
   return (
     <section id="contact" className="min-h-screen py-20 px-6 bg-card/30">
       <div className="max-w-5xl mx-auto">
